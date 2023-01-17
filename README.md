@@ -14,7 +14,6 @@ Existing data-dependent physical attacks can hardly apply to privacy-critical si
 
 ## Case Study in the Physical World
 
-* <font size=10> Physical Evaluation of Hierarchical Data-Free Adversarial Patch Generation Framework</font>  
 The object to be attacked is the well-learned class “banana” by CNN-based image classifiers, and the target class of adversarial patches is the butterfly “monarch”. As we can see, the bananas correctly classified with high confidence can be misled into a pre-defined target class with high confidence scores, thus actively exposing the potential flaws of CNN. Notably, the adversarial patches in the videos are generated with a manually synthesized dataset composed of black images, white images and uniform noise, thereby demonstrating the possibility of performing robustness evaluation under data-scarce situations.
 
 
