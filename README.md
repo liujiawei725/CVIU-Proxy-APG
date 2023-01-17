@@ -4,9 +4,9 @@
 Code will be released after publication  
 
 
-![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/DF-APG.png)
-
 ## Background
+![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/Layered_DF_APG.pdf)
+
 
 
 
