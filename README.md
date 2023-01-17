@@ -1,4 +1,4 @@
-# Data-Free-APG-Framework
+# A Hierarchical Data-Free Adversarial Patch Generation Method
 
 ## Implementation Detail
 Code will be released after publication  
