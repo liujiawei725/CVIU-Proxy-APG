@@ -4,7 +4,7 @@
 Code will be released after publication  
 
 ## Organization
-* School of Artificial Intelligence, Jilin University, Changchun, China}
+* School of Artificial Intelligence, Jilin University, Changchun, China
 * Department of Control Science and Engineering, Jilin University, Changchun, China
 * Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE, Jilin University, Changchun, China
 * College of Electronics and Information Engineering, Tongji University, Shanghai, China
