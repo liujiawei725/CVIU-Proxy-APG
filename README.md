@@ -14,6 +14,9 @@ Code will be released after publication
 
 Existing data-dependent physical attacks can hardly apply to privacy-critical situations when attackers have no access to training data of target models. This paper presents a hierarchical adversarial patch generation (APG) framework for data-free attacks with proxy datasets assuming that the training data is blinded. In the upper layer, average patch saliency (APS) is introduced as a quantitative metric to determine the best proxy dataset for APG among a bunch of publicly available datasets. In the lower layer, Data-Free Expectation of Transformation (DF-EoT) is developed to generate patches while considering perturbing background simulation and sensitivity alleviation. Evaluation results in digital settings show that the proposed framework enables attackers to accomplish targeted attack results in data-free scenarios and averagely outperforms a benchmark APG method by 10.05\% on five diverse target models. Finally, a case study in physical settings is included to verify the validness of the framework.
 
+## Quantitative Evaluation in the Digital World
+
+![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/quantitive_result.png)
 
 ## Case Study in the Physical World
 
