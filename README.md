@@ -3,6 +3,11 @@
 ## Implementation Detail
 Code will be released after publication  
 
+## Organization
+* School of Artificial Intelligence, Jilin University, Changchun, China}
+* Department of Control Science and Engineering, Jilin University, Changchun, China
+* Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE, Jilin University, Changchun, China
+* College of Electronics and Information Engineering, Tongji University, Shanghai, China
 
 ## Background
 ![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/DF-APG.png)
@@ -17,3 +22,8 @@ The object to be attacked is the well-learned class “banana” by CNN-based im
 
 Adversarial patches are presented on digital screen.![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/digital_screen.gif)
 Adversarial patches are presented on paper.![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/paper.gif)
+
+
+## Acknowledgements 
+This work was supported by National Key R&D Program of China (No.2020AAA0108105), Development and Reform Commission Foundation of Jilin Province (No.2023C034-3) and Shanghai Automobile Industry Technology Development.
+Foundation (No.2105)
