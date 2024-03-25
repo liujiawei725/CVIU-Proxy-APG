@@ -25,6 +25,7 @@ The object to be attacked is the well-learned class “banana” by CNN-based im
 
 Adversarial patches are presented on digital screen.![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/digital_screen.gif)
 Adversarial patches are presented on paper.![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/paper.gif)
+Adversarial patches are presented on digital screen.![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/test_1420.gif)
 
 
 ## Acknowledgements 
