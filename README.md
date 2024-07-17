@@ -1,7 +1,7 @@
 ![adadadada](https://github.com/liujiawei725/Data-Free-APG-Framework/blob/main/assets/logo.png)
 
 ## Implementation Detail
-Code will be released after publication  
+Code has been released after publication.  
 
 ## Organization
 * School of Artificial Intelligence, Jilin University, Changchun, China
